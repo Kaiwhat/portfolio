@@ -1,92 +1,182 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Ariel G. Falcón",
+    "name": "Kaiwha",
     "label": "Software Developer",
     "animated_main_label": "developer",
     "animated_secondary_initial_label": "software",
     "animated_secondary_final_label": "front_end",
     "image": "/pfp.webp",
-    "email": "falconyumn@gmail.com",
+    "email": "a0903613834@gmail.com",
     "url": "https://www.linkedin.com/in/arielfalcon/",
-    "summary": "Front-end developer, at the moment. I work on Angular and Vue with Typescript / HTML5 / SCSS. Currently learning about Back-end Development, Cloud Computing and DevOps.",
+    "summary": "I'm a student, an engineer, an Emergency Medical Technician (EMT)✚. I see myself as a healer. Whether as a responder in medical emergencies, or simply as a friend.",
     "theme": "red",
     "location": {
-      "address": "Alcalá de Henares",
-      "city": "Madrid",
-      "countryCode": "ES",
-      "region": "Spain"
+      "address": "Nationl Chi Nan University",
+      "city": "Nantou",
+      "countryCode": "TW",
+      "region": "Taiwan"
     },
     "profiles": [
       {
-        "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
-        "color": "#1DA1F2",
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
+        "color": "#E4405F",
         "username": "@arielGfalcon",
-        "url": "https://x.com/arielGfalcon"
+        "url": "https://www.instagram.com/wukaihe/"
       },
       {
-        "network": "LinkedIn",
-        "icon": "ri:linkedin-fill",
+        "network": "telegram",
+        "icon": "ri:telegram-fill",
         "color": "#0066C2",
         "username": "Ariel Falcón",
-        "url": "https://linkedin.com/in/arielfalcon"
+        "url": "https://t.me/kaiwha"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "color": "#929AAB",
+        "color": "#000000",
         "username": "ArielFalcon",
-        "url": "https://github.com/ArielFalcon"
+        "url": "https://github.com/Kaiwhat"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
         "username": "Ariel González Falcón",
-        "url": "mailto:falconyumn@gmail.com"
+        "url": "mailto:a0903613834@gmail.com"
       }
     ]
   },
   "education": [
     {
-      "institution": "TEIDE Formation Center – Spain",
-      "url": "https://www.linkedin.com/company/teide-centros-de-formaci%C3%B3n/",
-      "area": "Web Development",
+      "institution": "National Chi Nan University",
+      "url": "",
+      "area": "Information Management",
       "studyType": "Full-time student",
-      "startDate": "2023-04-01",
-      "endDate": "2023-09-01"
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01"
     },
     {
-      "institution": "Calixto García Medical School – Cuba",
-      "url": "https://www.linkedin.com/company/hospital-universitario-calixto-garcia/?originalSubdomain=cu",
-      "area": "Medicine (unfinished)",
+      "institution": "New Taipei Municipal Qing Shui High School",
+      "url": "",
+      "area": "General Subjects",
       "studyType": "Full-time student",
-      "startDate": "2018-9-01",
-      "endDate": "2021-7-01"
+      "startDate": "2019-9-01",
+      "endDate": "2022-6-01"
     }
   ],
   "certificates": [
     {
-      "name": "AWS Certified Developer – Associate",
-      "date": "2025-05-01",
-      "url": "",
-      "issuer": "Amazon"
+      "name": "U-Start Plan for Innovation and Entrepreneurship - NTD 500,000",
+      "date": "2024-05-01",
+      "url": "https://www.im.ncnu.edu.tw/2024/05/02/%E6%81%AD%E8%B3%80%E6%9C%AC%E7%B3%BB%E5%BC%B5%E4%B8%AD%E6%BC%A2%E3%80%81%E7%B0%A1%E9%BD%8A%E5%90%9B%E3%80%81%E5%90%B3%E6%A5%B7%E8%B3%80%E6%A6%AE%E7%8D%B2%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8Cu-start/",
+      "issuer": "Youth Development Administration, Ministry of Education, Taiwan"
     },
     {
-      "name": "C1 Advanced English",
-      "date": "2025-01-03",
-      "url": "https://cert.efset.org/es/6jDrGH",
-      "issuer": "EF SET"
+      "name": "初級救護技術員 Emergency Medical Technican--One Certification",
+      "date": "2025-02-13",
+      "url": "https://www.wangyingfoundation.org/news-detail54-0.htm",
+      "issuer": "Wangying Foundation, Taiwan"
+    }
+  ],
+  "attendee": [
+    {
+      "name": "全國資安社團暨社群幹部研習營",
+      "date": "2023-08-21",
+      "url": "https://www.im.ncnu.edu.tw/2024/05/02/%E6%81%AD%E8%B3%80%E6%9C%AC%E7%B3%BB%E5%BC%B5%E4%B8%AD%E6%BC%A2%E3%80%81%E7%B0%A1%E9%BD%8A%E5%90%9B%E3%80%81%E5%90%B3%E6%A5%B7%E8%B3%80%E6%A6%AE%E7%8D%B2%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8Cu-start/",
+      "issuer": "Ministry of Education, Taiwan"
+    },
+    {
+      "name": "全國資安社團暨社群幹部研習營",
+      "date": "2024-08-21",
+      "url": "https://www.wangyingfoundation.org/news-detail54-0.htm",
+      "issuer": "Ministry of Education, Taiwan"
+    },
+    {
+      "name": "Sitcon 學生計算機年會",
+      "date": "2025-03-08",
+      "url": "https://sitcon.org/2025/",
+      "issuer": "Students’ Information Technology Conference, Taiwan"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Association for Computing Machinery",
+      "date": "2023-07-13",
+      "url": "",
+      "issuer": "Computer Science and Information Engineering, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "Google Developer Student Club in NCNU",
+      "date": "2023-09-01",
+      "url": "",
+      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "Google Developer Group on campus NCNU",
+      "date": "2024-09-01",
+      "url": "",
+      "issuer": "Google Developer Group on campus, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "AIS3 x GDG 中區資安體驗營",
+      "date": "2024-10-19",
+      "url": "",
+      "issuer": "Ministry of Education, Taiwan"
+    },
+    {
+      "name": "Google DevFest Taipei",
+      "date": "2024-11-30",
+      "url": "",
+      "issuer": "Google Developer Group Taipei, Taiwan"
+    },
+    {
+      "name": "Google DevFest Taichung",
+      "date": "2024-12-07",
+      "url": "https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2024/",
+      "issuer": "Google Developer Group Taichung, Taiwan"
+    }
+  ],
+  "technical": [
+    {
+      "name": "Speaker, Topic: Notion 入門課程",
+      "date": "2023-10-01",
+      "url": "",
+      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "Speaker, Topic: 搬磚套利：虛擬貨幣市場分析",
+      "date": "2023-12-01",
+      "url": "",
+      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "Speaker, Topic: 如何使用LLM輔助學習和工作",
+      "date": "2024-03-01",
+      "url": "",
+      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "Core team member",
+      "date": "2024-05-01",
+      "url": "",
+      "issuer": "Google Developer Group on campus NCNU, National Chi Nan University, Taiwan"
+    },
+    {
+      "name": "Speaker, Topic: 人工智慧導論",
+      "date": "2024-10-01",
+      "url": "",
+      "issuer": "Google Developer Group on campus NCNU, National Chi Nan University, Taiwan"
     }
   ],
   "work": [
     {
-      "name": "Zener Soft Consulting",
-      "position": "Front-end Developer",
+      "name": "職引國際有限公司 ",
+      "position": "IT Specialist and Co-Founder",
       "location_type": "Remote",
-      "location": "ES",
-      "url": "https://www.linkedin.com/company/aitor-pelaez-zenerconsulting-com/",
+      "location": "TW",
+      "url": "https://info.technews.tw/company/00046754-%E8%81%B7%E5%BC%95%E5%9C%8B%E9%9A%9B%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
       "startDate": "2023-07-03",
       "endDate": null,
       "summary": "Experienced in developing high-complexity, scalable, data-driven front-end projects with a focus on performance, user experience, and system integration. Participated in development of a complex Micro-services Hexagonal DDD Spring Java project.",
@@ -129,7 +219,88 @@
         "Kubernetes": "simple-icons:kubernetes",
         "Docker": "simple-icons:docker"
       }
-    }
+    },
+    {
+      "name": "國立暨南國際大學",
+      "position": "Teaching Assistant – University Social Responsibility (USR) Project",
+      "location_type": "On-site",
+      "location": "TW",
+      "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "summary": "Supported the University Social Responsibility (USR) project, focusing on water resource conservation and sustainable regional development. Assisted in coordinating interdisciplinary collaboration between students, faculty, local governments, and industries to implement real-world sustainability initiatives.",
+      "highlights": [
+          "Facilitated student engagement in water resource conservation, sustainable energy practices, and pollution reduction efforts.",
+          "Coordinated interdisciplinary and cross-sector collaboration among students, faculty, local communities, and government agencies."
+      ],
+      "responsibilities": [
+          "Assisted in organizing workshops, field studies, and community engagement activities related to water resource sustainability.",
+          "Guided students in developing innovative action plans that integrate environmental conservation and local industry development.",
+          "Facilitated discussions on balancing water conservation with economic development in upstream watershed areas.",
+          "Managed project logistics, including stakeholder coordination, data collection, and event planning.",
+          "Provided academic and technical support to students in researching and implementing sustainability-focused projects."
+      ],
+      "achievements": [
+          "Led a team of students in a cross-disciplinary research project, analyzing the impact of water conservation practices on local industries.",
+          "Organized a community outreach program that connected students with local government and industry leaders to promote sustainable water management.",
+          "Developed an online knowledge-sharing platform to document and disseminate best practices in environmental sustainability.",
+          "Helped secure funding for student-led sustainability initiatives through grant proposals and industry partnerships."
+      ]
+    },
+    {
+      "name": "國立暨南國際大學",
+      "position": "Teaching Assistant – Business Data Networks and Security",
+      "location_type": "On-site",
+      "location": "TW",
+      "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
+      "startDate": "2025-02-01",
+      "endDate": null,
+      "summary": "Assisted in teaching Business Data Networks and Security, providing support in network infrastructure, cybersecurity principles, and hands-on system administration. Helped students understand key concepts related to network protocols, security mechanisms, and risk management.",
+      "highlights": [
+          "Guided students in configuring secure network infrastructures, including VLANs, firewalls, and VPN setups.",
+          "Developed and graded hands-on labs covering topics such as network security, TCP/IP protocols, and intrusion detection systems."
+      ],
+      "responsibilities": [
+          "Conducted lab sessions and tutorials, explaining fundamental networking concepts and security measures.",
+          "Assisted students with troubleshooting networking issues, including packet analysis and firewall configurations.",
+          "Designed and reviewed assignments on networking protocols, encryption techniques, and network defense strategies.",
+          "Provided technical support for network security projects, ensuring students implemented best practices in cyber defense.",
+          "Collaborated with professors to refine course materials and improve hands-on lab experiences."
+      ],
+      "achievements": [
+          "Implemented an interactive cybersecurity simulation for students to practice threat mitigation techniques.",
+          "Developed a real-world case study on network security breaches, helping students analyze vulnerabilities and apply mitigation strategies.",
+          "Enhanced lab efficiency by introducing automated network configuration scripts, reducing setup time by 40%.",
+          "Created a knowledge-sharing platform for students to discuss and troubleshoot security challenges collaboratively."
+      ]
+    },
+    {
+      "name": "國立暨南國際大學",
+      "position": "Teaching Assistant – Seminar in Information Management",
+      "location_type": "On-site",
+      "location": "TW",
+      "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
+      "startDate": "2025-02-01",
+      "endDate": null,
+      "summary": "Facilitated academic discussions and research presentations in a seminar course focused on emerging topics in Information Management. Provided guidance to students on research methodologies, critical thinking, and effective presentation techniques.",
+      "highlights": [
+          "Mentored students in developing research topics, refining their methodologies, and structuring their presentations.",
+          "Organized and moderated weekly discussions on industry trends, case studies, and academic papers."
+      ],
+      "responsibilities": [
+          "Assisted students in preparing research presentations and ensuring content clarity, coherence, and academic rigor.",
+          "Reviewed and provided feedback on research proposals, ensuring proper methodology and literature support.",
+          "Facilitated discussions on current topics in Information Management, encouraging critical analysis and knowledge-sharing.",
+          "Coordinated guest lectures and industry talks to expose students to real-world applications of research topics.",
+          "Managed seminar logistics, including scheduling, material distribution, and technical support for virtual/hybrid sessions."
+      ],
+      "achievements": [
+          "Developed a structured evaluation framework to assess student presentations, improving feedback quality and engagement.",
+          "Organized a student-led mini-conference, allowing participants to showcase their research findings in a professional setting.",
+          "Introduced an interactive Q&A system using digital tools, enhancing participation and engagement during seminars.",
+          "Created a research repository compiling seminar discussions and student papers, serving as a reference for future cohorts."
+      ]
+    }  
   ],
   "skills": [
     {
@@ -148,39 +319,6 @@
       "keywords": [
         "Web Development",
         "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "SCSS",
-      "icon": "simple-icons:sass",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Preprocessor",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "icon": "simple-icons:bootstrap",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
         "Responsive Design"
       ]
     },
@@ -204,28 +342,6 @@
         "Frontend",
         "Backend",
         "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Angular",
-      "icon": "simple-icons:angular",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Framework",
-        "UI"
-      ]
-    },
-    {
-      "name": "RxJS",
-      "icon": "simple-icons:reactivex",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Reactive Programming",
-        "JavaScript"
       ]
     },
     {
@@ -262,33 +378,12 @@
       ]
     },
     {
-      "name": "PNPM",
-      "icon": "simple-icons:pnpm",
-      "level": "Beginner",
-      "keywords": [
-        "Package Manager",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
       "name": "Java",
       "icon": "ri:java-line",
       "level": "Beginner",
       "keywords": [
         "Web Development",
         "Backend"
-      ]
-    },
-    {
-      "name": "Spring",
-      "icon": "simple-icons:spring",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Java Framework"
       ]
     },
     {
@@ -346,32 +441,12 @@
       ]
     },
     {
-      "name": "AWS",
-      "icon": "simple-icons:amazonaws",
-      "level": "Beginner",
-      "keywords": [
-        "Cloud Computing",
-        "Backend",
-        "Infrastructure"
-      ]
-    },
-    {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Beginner",
       "keywords": [
         "Virtual Environments",
         "Backend"
-      ]
-    },
-    {
-      "name": "Kubernetes",
-      "icon": "mdi:kubernetes",
-      "level": "Beginner",
-      "keywords": [
-        "Virtual Environments",
-        "Backend",
-        "Container Orchestration"
       ]
     },
     {
@@ -382,17 +457,6 @@
         "Scripting",
         "Automation",
         "Web Development"
-      ]
-    },
-    {
-      "name": "Jest",
-      "icon": "simple-icons:jest",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
       ]
     },
     {
@@ -426,17 +490,6 @@
       ]
     },
     {
-      "name": "Swagger",
-      "icon": "simple-icons:swagger",
-      "level": "Beginner",
-      "keywords": [
-        "API",
-        "Documentation",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
       "name": "Postman",
       "icon": "simple-icons:postman",
       "level": "Intermediate",
@@ -460,91 +513,15 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
+      "language": "Mandarin",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Advanced - C1"
+      "fluency": "Limited working proficiency"
     }
   ],
   "projects": [
-    {
-      "name": "CV Matching System",
-      "isActive": true,
-      "description": "A propiertary code AI-driven CV matching system to connect the offer and the best candidates. Automates the recruitment process.",
-      "highlights": [
-        "🎯 Tailored job opportunities",
-        "✨ AI-driven complex workflows ",
-        "🚀 80% increase in productivity"
-      ],
-      "stack": {
-        "Python": "simple-icons:python",
-        "Redis": "simple-icons:redis",
-        "Firebase": "simple-icons:firebase",
-        "Google Cloud": "simple-icons:googlecloud",
-        "Claude": "ri:claude-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "url": "https://www.gringojobs.com"
-    },
-    {
-      "name": "TODO List",
-      "isActive": false,
-      "description": "A simple app to showcase my skills in Angular. It's a TODO list with a beautiful and smooth UI, good user experience and best practices. Not finished yet.",
-      "highlights": [
-        "📝 In progress",
-        "😮‍ Made-from-scratch complex components",
-        "😊 Beautiful and smooth UI, good user experience",
-        "\uD83E\uDD16 Server Side Rendering"
-      ],
-      "github": "https://github.com/ArielFalcon/TODO-list",
-      "stack": {
-        "Angular": "simple-icons:angular",
-        "RxJS": "simple-icons:reactivex",
-        "TypeScript": "simple-icons:typescript",
-        "SCSS": "simple-icons:sass",
-        "NodeJS": "ri:nodejs-line",
-        "Firebase": "simple-icons:firebase"
-      }
-    },
-    {
-      "name": "Portfolio",
-      "isActive": true,
-      "description": "This website! My personal portfolio, made with Astro. Integrates many themes and key shortcut actions.",
-      "highlights": [
-        "🚀 Fast, modern and SEO-friendly",
-        "🎨 Printable CV generation",
-        "〔N〕Crazy NeoVim mode, try it!"
-      ],
-      "github": "https://github.com/ArielFalcon/portfolio",
-      "stack": {
-        "Astro": "simple-icons:astro",
-        "TypeScript": "simple-icons:typescript",
-        "Tailwind": "mdi:tailwind",
-        "NodeJS": "ri:nodejs-line",
-        "PNPM": "simple-icons:pnpm",
-        "Vercel": "simple-icons:vercel"
-      },
-      "url": "https://www.arielfalcon.me"
-    },
-    {
-      "name": "AI Web Scraper",
-      "isActive": false,
-      "description": "A web scraper that uses AI to extract data from websites. It's a tool to automate the data extraction process, using machine learning to identify and extract data from websites.",
-      "highlights": [
-        "🤖 Simple script",
-        "🔍 Data Extraction",
-        "🌐 Web scraping"
-      ],
-      "stack": {
-        "Javascript": "simple-icons:javascript",
-        "Selenium": "simple-icons:selenium",
-        "ChromeDriver": "ri:chrome-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
-    },
     {
       "name": "SpaceX Invaders",
       "isActive": true,
