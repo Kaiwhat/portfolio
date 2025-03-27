@@ -9,7 +9,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "deploy:vercel": "vercel deploy",
-    "deploy:cloudflare": "astro build && echo $CLOUDFLARE_API_TOKEN && wrangler pages deploy ./dist --project-name=cv"
+    "deploy:cloudflare": "astro build && echo $CLOUDFLARE_API_TOKEN && wrangler pages deploy ./dist --project-name=portfolio"
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.1",
