@@ -68,16 +68,16 @@
   ],
   "certificates": [
     {
-      "name": "U-Start Plan for Innovation and Entrepreneurship - NTD 500,000",
+      "name": "U-Start 創新創業計畫 - NTD 500,000",
       "date": "2024-05-01",
       "url": "https://www.im.ncnu.edu.tw/2024/05/02/%E6%81%AD%E8%B3%80%E6%9C%AC%E7%B3%BB%E5%BC%B5%E4%B8%AD%E6%BC%A2%E3%80%81%E7%B0%A1%E9%BD%8A%E5%90%9B%E3%80%81%E5%90%B3%E6%A5%B7%E8%B3%80%E6%A6%AE%E7%8D%B2%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8Cu-start/",
       "issuer": "Youth Development Administration, Ministry of Education, Taiwan"
     },
     {
-      "name": "初級救護技術員 Emergency Medical Technican--One Certification",
+      "name": "初級救護技術員",
       "date": "2025-02-13",
       "url": "https://www.wangyingfoundation.org/news-detail54-0.htm",
-      "issuer": "Wangying Foundation, Taiwan"
+      "issuer": "財團法人旺英基金會, Taiwan"
     }
   ],
   "attendee": [
@@ -179,126 +179,112 @@
       "url": "https://info.technews.tw/company/00046754-%E8%81%B7%E5%BC%95%E5%9C%8B%E9%9A%9B%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
       "startDate": "2023-07-03",
       "endDate": null,
-      "summary": "Experienced in developing high-complexity, scalable, data-driven front-end projects with a focus on performance, user experience, and system integration. Participated in development of a complex Micro-services Hexagonal DDD Spring Java project.",
+      "summary": "共同創辦公司，負責業務發展與網站開發。",
       "highlights": [
         "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
       ],
       "responsibilities": [
-        "Developed and maintained front-end projects, ensuring scalability, performance, clean code, efficient architecture and robust user experiences.",
-        "Collaborated with cross-functional teams of developers, designers, and project managers to deliver high-quality solutions.",
-        "Ensured code quality and optimized front-end performance to meet user needs and business objectives.",
-        "Managed complex, data-intensive projects, ensuring smooth integration of business logic and user interfaces.",
-        "Designed and developed highly reactive components and workflows to improve application efficiency and user interaction."
+        "設計並管理前端專案，同時讓解方具備可擴展性、高效、可維護、高可用架構及易用的使用者體驗。",
+        "與開發者、設計師與專案經理等跨領域團隊緊密合作，交付頂尖品質的解決方案。"
       ],
       "achievements": [
-        "Optimized front-end performance by resolving critical issues, improving page load times, and enhancing user experience.",
-        "Developed an internal tool to streamline client-owned code documentation, introducing interactive design guidelines and testable components.",
-        "Created a highly complex Angular application for the national healthcare system, successfully handling large-scale data and implementing intricate business logic.",
-        "Built reusable and scalable Vue components for a multinational client, ensuring consistency and improving code quality across multiple platforms."
+        "共同創辦公司，撰寫並維護公司網站至今。",
+        "共同參與 Ustart 專案，並獲得新台幣 500,000 元的補助。"
       ],
       "skills": {
         "HTML5": "simple-icons:html5",
         "CSS3": "ri:css3-fill",
-        "SCSS": "simple-icons:sass",
-        "Bootstrap": "simple-icons:bootstrap",
-        "JavaScript ECMA6+": "simple-icons:javascript",
         "TypeScript": "simple-icons:typescript",
         "Vue": "mdi:vuejs",
-        "Angular": "simple-icons:angular",
-        "Jasmine": "simple-icons:jasmine",
-        "Jest": "simple-icons:jest",
         "Java": "ri:java-line",
-        "Spring": "simple-icons:spring",
         "NodeJS": "ri:nodejs-line",
         "Postman": "simple-icons:postman",
         "i18n": "simple-icons:i18next",
         "Git": "mdi:git",
         "GitHub": "mdi:github",
         "Figma": "simple-icons:figma",
-        "Jira": "simple-icons:jira",
-        "Kubernetes": "simple-icons:kubernetes",
         "Docker": "simple-icons:docker"
       }
     },
     {
       "name": "國立暨南國際大學",
-      "position": "Teaching Assistant – University Social Responsibility (USR) Project",
+      "position": "教學助理 – University Social Responsibility (USR) Project",
       "location_type": "On-site",
       "location": "TW",
       "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
       "startDate": "2024-09-01",
       "endDate": null,
-      "summary": "Supported the University Social Responsibility (USR) project, focusing on water resource conservation and sustainable regional development. Assisted in coordinating interdisciplinary collaboration between students, faculty, local governments, and industries to implement real-world sustainability initiatives.",
+      "summary": "支持大學社會責任（USR）計畫，專注於水資源保育與區域永續發展。協助促進學生、師長、地方政府與產業之間的跨領域合作，以落實永續發展計畫。",
       "highlights": [
-          "Facilitated student engagement in water resource conservation, sustainable energy practices, and pollution reduction efforts.",
-          "Coordinated interdisciplinary and cross-sector collaboration among students, faculty, local communities, and government agencies."
+          "促進學生參與水資源保育、永續能源實踐及污染減少行動。",
+          "協調學生、師長、地方社區與政府機關之間的跨領域與跨部門合作。"
       ],
       "responsibilities": [
-          "Assisted in organizing workshops, field studies, and community engagement activities related to water resource sustainability.",
-          "Guided students in developing innovative action plans that integrate environmental conservation and local industry development.",
-          "Facilitated discussions on balancing water conservation with economic development in upstream watershed areas.",
-          "Managed project logistics, including stakeholder coordination, data collection, and event planning.",
-          "Provided academic and technical support to students in researching and implementing sustainability-focused projects."
+          "協助籌辦與水資源永續相關的工作坊、實地考察及社區參與活動。",
+          "指導學生制定創新行動計畫，結合環境保育與地方產業發展。",
+          "促進關於水資源保育與上游集水區經濟發展平衡的討論。",
+          "負責專案管理，包括利害關係人協調、數據收集與活動規劃。",
+          "提供學術與技術支持，幫助學生進行永續發展相關的研究與實踐。"
       ],
       "achievements": [
-          "Led a team of students in a cross-disciplinary research project, analyzing the impact of water conservation practices on local industries.",
-          "Organized a community outreach program that connected students with local government and industry leaders to promote sustainable water management.",
-          "Developed an online knowledge-sharing platform to document and disseminate best practices in environmental sustainability.",
-          "Helped secure funding for student-led sustainability initiatives through grant proposals and industry partnerships."
+          "領導跨學科學生團隊進行研究，分析水資源保育對地方產業的影響。",
+          "組織社區外展計畫，促成學生與地方政府及產業領袖交流，推廣永續水資源管理。",
+          "建立線上知識共享平台，整理並推廣環境永續發展的最佳實踐。",
+          "協助學生透過撰寫提案及產業合作爭取永續發展專案經費。"
       ]
     },
     {
       "name": "國立暨南國際大學",
-      "position": "Teaching Assistant – Business Data Networks and Security",
+      "position": "教學助理 – 企業資訊網路",
       "location_type": "On-site",
       "location": "TW",
       "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
       "startDate": "2025-02-01",
       "endDate": null,
-      "summary": "Assisted in teaching Business Data Networks and Security, providing support in network infrastructure, cybersecurity principles, and hands-on system administration. Helped students understand key concepts related to network protocols, security mechanisms, and risk management.",
+      "summary": "協助教授《企業資訊網路》課程，提供網路基礎設施、網路安全原則及系統管理實作的支援。幫助學生理解網路協議、安全機制與風險管理等核心概念。",
       "highlights": [
-          "Guided students in configuring secure network infrastructures, including VLANs, firewalls, and VPN setups.",
-          "Developed and graded hands-on labs covering topics such as network security, TCP/IP protocols, and intrusion detection systems."
+          "指導學生配置安全的網路基礎設施，包括 VLAN、防火牆及 VPN 設置。",
+          "設計並評分實作實驗，涵蓋網路安全、TCP/IP 協議與入侵檢測系統等主題。"
       ],
       "responsibilities": [
-          "Conducted lab sessions and tutorials, explaining fundamental networking concepts and security measures.",
-          "Assisted students with troubleshooting networking issues, including packet analysis and firewall configurations.",
-          "Designed and reviewed assignments on networking protocols, encryption techniques, and network defense strategies.",
-          "Provided technical support for network security projects, ensuring students implemented best practices in cyber defense.",
-          "Collaborated with professors to refine course materials and improve hands-on lab experiences."
+          "主持實驗課與教學輔導，講解基礎網路概念與安全措施。",
+          "協助學生排除網路故障，包括封包分析與防火牆配置問題。",
+          "設計並審核關於網路協議、加密技術與網路防禦策略的作業。",
+          "提供技術支援，確保學生在網路安全專案中應用最佳的網路防禦實踐。",
+          "與教授合作優化課程內容，提升實作實驗的學習體驗。"
       ],
       "achievements": [
-          "Implemented an interactive cybersecurity simulation for students to practice threat mitigation techniques.",
-          "Developed a real-world case study on network security breaches, helping students analyze vulnerabilities and apply mitigation strategies.",
-          "Enhanced lab efficiency by introducing automated network configuration scripts, reducing setup time by 40%.",
-          "Created a knowledge-sharing platform for students to discuss and troubleshoot security challenges collaboratively."
+          "實施互動式網路安全模擬，讓學生練習威脅緩解技術。",
+          "開發真實案例研究，分析網路安全漏洞並應用對應的防禦策略。",
+          "透過自動化網路配置腳本提升實驗室效率，減少 40% 設置時間。",
+          "建立知識共享平台，讓學生能夠合作討論並解決安全挑戰。"
       ]
     },
     {
       "name": "國立暨南國際大學",
-      "position": "Teaching Assistant – Seminar in Information Management",
+      "position": "教學助理 – Seminar in Information Management",
       "location_type": "On-site",
       "location": "TW",
       "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
       "startDate": "2025-02-01",
       "endDate": null,
-      "summary": "Facilitated academic discussions and research presentations in a seminar course focused on emerging topics in Information Management. Provided guidance to students on research methodologies, critical thinking, and effective presentation techniques.",
+      "summary": "在一門聚焦於資訊管理領域新興議題的研討課程中，促進學術討論與研究報告呈現。為學生提供研究方法論、批判性思維與有效的報告技巧指導。",
       "highlights": [
-          "Mentored students in developing research topics, refining their methodologies, and structuring their presentations.",
-          "Organized and moderated weekly discussions on industry trends, case studies, and academic papers."
+          "指導學生發展研究主題、精煉方法論並結構化報告內容。",
+          "組織並主持每週的討論會，探討行業趨勢、案例研究與學術論文。"
       ],
       "responsibilities": [
-          "Assisted students in preparing research presentations and ensuring content clarity, coherence, and academic rigor.",
-          "Reviewed and provided feedback on research proposals, ensuring proper methodology and literature support.",
-          "Facilitated discussions on current topics in Information Management, encouraging critical analysis and knowledge-sharing.",
-          "Coordinated guest lectures and industry talks to expose students to real-world applications of research topics.",
-          "Managed seminar logistics, including scheduling, material distribution, and technical support for virtual/hybrid sessions."
+          "協助學生準備研究報告，確保內容的清晰性、一致性與學術嚴謹性。",
+          "審查並提供研究提案的反饋，確保方法論與文獻支持的正確性。",
+          "促進關於資訊管理領域當前議題的討論，鼓勵批判性分析與知識分享。",
+          "協調客座講座與產業講座，讓學生接觸研究主題的實際應用。",
+          "管理研討會的後勤事務，包括排定時間、發放資料及提供虛擬/混合式會議的技術支援。"
       ],
       "achievements": [
-          "Developed a structured evaluation framework to assess student presentations, improving feedback quality and engagement.",
-          "Organized a student-led mini-conference, allowing participants to showcase their research findings in a professional setting.",
-          "Introduced an interactive Q&A system using digital tools, enhancing participation and engagement during seminars.",
-          "Created a research repository compiling seminar discussions and student papers, serving as a reference for future cohorts."
+          "開發結構化評估框架，用於評估學生的報告，提升反饋質量與參與度。",
+          "組織了一場由學生主導的小型學術會議，讓參與者在專業環境中展示其研究成果。",
+          "引入了使用數位工具的互動問答系統，提升研討會中的參與與互動。",
+          "建立了研究資料庫，匯集研討會討論與學生論文，作為未來學生的參考資料。"
       ]
     }  
   ],
