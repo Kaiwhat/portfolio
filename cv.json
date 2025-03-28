@@ -488,6 +488,16 @@
         "Web Development",
         "Frontend"
       ]
+    },
+    {
+      "name": "Flutter",
+      "icon": "simple-icons:flutter",
+      "level": "Beginner",
+      "keywords": [
+        "Prototyping",
+        "Web Development",
+        "Frontend"
+      ]
     }
   ],
   "languages": [
@@ -502,24 +512,61 @@
   ],
   "projects": [
     {
-      "name": "SpaceX Invaders",
+      "name": "BobyGamer",
       "isActive": true,
-      "description": "A Space Invaders game with a retro look, made with Vue3 and TypeScript. It's a fun project to showcase my skills in Vue3 and TypeScript.",
+      "description": "結合 Mediapipe 與 OpenCV，基於 Python 開發一個利用肢體動作進行遊戲操控的系統。",
       "highlights": [
-        "🚀 Space Invaders game",
-        "🛸 Retro fun",
-        "🎮 Vue3 + TypeScript"
+        "🚀 肢體動作進行遊戲操控",
+        "🛸 Having fun",
+        "🎮 Mediapipe + OpenCV + Python"
       ],
       "stack": {
-        "Vue3": "ri:vuejs-line",
-        "TypeScript": "simple-icons:typescript",
-        "CSS": "simple-icons:css",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Netlify": "simple-icons:netlify"
+        "Python": "simple-icons:python",
+        "OpenCV": "simple-icons:opencv",
+        "MySQL": "simple-icons:mysql",
+        "Flask": "simple-icons:flask",
+        "Socket.io": "simple-icons:socketdotio",
+        "Docker": "simple-icons:docker",
+        "Node.js": "simple-icons:nodedotjs",
+        "Vim": "simple-icons:vim"
       },
-      "github": "https://github.com/ArielFalcon/spacex-invaders",
-      "url": "https://spacex-invaders.netlify.app/"
+      "github": "https://github.com/Kaiwhat/BobyGamer",
+      "url": ""
+    },
+    {
+      "name": "Exploit_market ",
+      "isActive": true,
+      "description": "Creating an MVC application using NODEjs and MariaDB",
+      "highlights": [
+        "肢體動作進行遊戲操控",
+        "Having fun",
+        "Mediapipe + OpenCV + Python"
+      ],
+      "stack": {
+        "HTML5": "simple-icons:html5",
+        "CSS": "simple-icons:css",
+        "Javascript": "simple-icons:javascript",
+        "Node.js": "simple-icons:nodedotjs",
+        "EJS": "simple-icons:ejs",
+        "MariaDB": "simple-icons:mariadb"
+      },
+      "github": "https://github.com/Kaiwhat/Exploit_market",
+      "url": ""
+    },
+    {
+      "name": "Calculator",
+      "isActive": true,
+      "description": "Creating an MVC application using NODEjs and MariaDB",
+      "highlights": [
+        "肢體動作進行遊戲操控",
+        "Having fun",
+        "Mediapipe + OpenCV + Python"
+      ],
+      "stack": {
+        "Flutter": "simple-icons:flutter"
+      },
+      "github": "https://github.com/Kaiwhat/calculator",
+      "url": ""
     }
   ]
 }
