@@ -12,10 +12,10 @@
     "summary": "I'm a student, an engineer, an Emergency Medical Technician (EMT)✚. I see myself as a healer. Whether as a responder in medical emergencies, or simply as a friend.",
     "theme": "red",
     "location": {
-      "address": "Nationl Chi Nan University",
-      "city": "Nantou",
+      "address": "國立暨南國際大學",
+      "city": "南投",
       "countryCode": "TW",
-      "region": "Taiwan"
+      "region": "臺灣"
     },
     "profiles": [
       {
@@ -50,7 +50,7 @@
   },
   "education": [
     {
-      "institution": "National Chi Nan University",
+      "institution": "國立暨南國際大學",
       "url": "",
       "area": "Information Management",
       "studyType": "Full-time student",
@@ -58,7 +58,7 @@
       "endDate": "2026-06-01"
     },
     {
-      "institution": "New Taipei Municipal Qing Shui High School",
+      "institution": "新北市立清水高級中學",
       "url": "",
       "area": "General Subjects",
       "studyType": "Full-time student",
@@ -71,13 +71,13 @@
       "name": "U-Start 創新創業計畫 - NTD 500,000",
       "date": "2024-05-01",
       "url": "https://www.im.ncnu.edu.tw/2024/05/02/%E6%81%AD%E8%B3%80%E6%9C%AC%E7%B3%BB%E5%BC%B5%E4%B8%AD%E6%BC%A2%E3%80%81%E7%B0%A1%E9%BD%8A%E5%90%9B%E3%80%81%E5%90%B3%E6%A5%B7%E8%B3%80%E6%A6%AE%E7%8D%B2%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8Cu-start/",
-      "issuer": "Youth Development Administration, Ministry of Education, Taiwan"
+      "issuer": "教育部青年發展署, 教育部, 臺灣"
     },
     {
       "name": "Emergency Medical Technician--one",
       "date": "2025-02-13",
       "url": "https://www.wangyingfoundation.org/news-detail54-0.htm",
-      "issuer": "財團法人旺英基金會, Taiwan"
+      "issuer": "財團法人旺英基金會, 臺灣"
     }
   ],
   "attendee": [
@@ -85,19 +85,19 @@
       "name": "全國資安社團暨社群幹部研習營",
       "date": "2023-08-21",
       "url": "https://www.im.ncnu.edu.tw/2024/05/02/%E6%81%AD%E8%B3%80%E6%9C%AC%E7%B3%BB%E5%BC%B5%E4%B8%AD%E6%BC%A2%E3%80%81%E7%B0%A1%E9%BD%8A%E5%90%9B%E3%80%81%E5%90%B3%E6%A5%B7%E8%B3%80%E6%A6%AE%E7%8D%B2%E6%95%99%E8%82%B2%E9%83%A8%E3%80%8Cu-start/",
-      "issuer": "Ministry of Education, Taiwan"
+      "issuer": "教育部資訊安全人才培育計畫, 教育部, 臺灣"
     },
     {
       "name": "全國資安社團暨社群幹部研習營",
       "date": "2024-08-21",
       "url": "https://www.wangyingfoundation.org/news-detail54-0.htm",
-      "issuer": "Ministry of Education, Taiwan"
+      "issuer": "教育部資訊安全人才培育計畫, 教育部, 臺灣"
     },
     {
-      "name": "Sitcon 學生計算機年會",
+      "name": "Sitcon 2025 學生計算機年會",
       "date": "2025-03-08",
       "url": "https://sitcon.org/2025/",
-      "issuer": "Students’ Information Technology Conference, Taiwan"
+      "issuer": "Students’ Information Technology Conference, 臺灣"
     }
   ],
   "contributor": [
@@ -105,37 +105,37 @@
       "name": "Association for Computing Machinery",
       "date": "2023-07-13",
       "url": "",
-      "issuer": "Computer Science and Information Engineering, National Chi Nan University, Taiwan"
+      "issuer": "Computer Science and Information Engineering, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "Google Developer Student Club in NCNU",
       "date": "2023-09-01",
       "url": "",
-      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Student Club, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "Google Developer Group on campus NCNU",
       "date": "2024-09-01",
       "url": "",
-      "issuer": "Google Developer Group on campus, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Group on campus, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "AIS3 x GDG 中區資安體驗營",
       "date": "2024-10-19",
       "url": "",
-      "issuer": "Ministry of Education, Taiwan"
+      "issuer": "Ministry of Education, 臺灣"
     },
     {
-      "name": "Google DevFest Taipei",
+      "name": "Google DevFest Taipei 2024",
       "date": "2024-11-30",
       "url": "",
-      "issuer": "Google Developer Group Taipei, Taiwan"
+      "issuer": "Google Developer Group Taipei, 臺灣"
     },
     {
-      "name": "Google DevFest Taichung",
+      "name": "Google DevFest Taichung 2024",
       "date": "2024-12-07",
       "url": "https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2024/",
-      "issuer": "Google Developer Group Taichung, Taiwan"
+      "issuer": "Google Developer Group Taichung, 臺灣"
     }
   ],
   "technical": [
@@ -143,31 +143,31 @@
       "name": "Speaker, Topic: Notion 入門課程",
       "date": "2023-10-01",
       "url": "",
-      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Student Club, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "Speaker, Topic: 搬磚套利：虛擬貨幣市場分析",
       "date": "2023-12-01",
       "url": "",
-      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Student Club, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "Speaker, Topic: 如何使用LLM輔助學習和工作",
       "date": "2024-03-01",
       "url": "",
-      "issuer": "Google Developer Student Club, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Student Club, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "Core team member",
       "date": "2024-05-01",
       "url": "",
-      "issuer": "Google Developer Group on campus NCNU, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Group on campus NCNU, 國立暨南國際大學, 臺灣"
     },
     {
       "name": "Speaker, Topic: 人工智慧導論",
       "date": "2024-10-01",
       "url": "",
-      "issuer": "Google Developer Group on campus NCNU, National Chi Nan University, Taiwan"
+      "issuer": "Google Developer Group on campus NCNU, 國立暨南國際大學, 臺灣"
     }
   ],
   "work": [
@@ -208,7 +208,7 @@
     },
     {
       "name": "國立暨南國際大學",
-      "position": "教學助理 – University Social Responsibility (USR) Project",
+      "position": "教學助理 – 大學社會責任實踐 (USR) 計畫",
       "location_type": "On-site",
       "location": "TW",
       "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
@@ -221,7 +221,7 @@
       ],
       "responsibilities": [
           "協助籌辦與水資源永續相關的工作坊、實地考察及社區參與活動。",
-          "帶領學生制定環保行動計畫，結合環境保育與地方產業發展。",
+          "帶領學生參與水資源保育、永續能源實踐及對環境的保護付諸行動。",
           "設計關於水資源保育與埔里排洪道週邊之經濟發展平衡的討論。"
       ],
       "achievements": [
