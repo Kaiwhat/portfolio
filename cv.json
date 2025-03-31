@@ -530,9 +530,9 @@
       "isActive": true,
       "description": "Creating an MVC application using NODEjs and MariaDB",
       "highlights": [
-        "肢體動作進行遊戲操控",
-        "Having fun",
-        "Mediapipe + OpenCV + Python"
+        "可以新增/修改/刪除自己的拍賣品 (包含名稱、說明內容、與底價)",
+        "可以查看所有人的拍賣品清單(產品名稱、目前最高價)，並可進一步查看拍賣品的內容與所有出價紀錄",
+        "可以對物品提出競標價格"
       ],
       "stack": {
         "HTML5": "simple-icons:html5",
@@ -548,11 +548,11 @@
     {
       "name": "BobyGamer",
       "isActive": true,
-      "description": "結合 Mediapipe 與 OpenCV，基於 Python 開發一個利用肢體動作進行遊戲操控的系統。",
+      "description": "結合 Mediapipe 與 OpenCV，基於 Python 開發一個利用肢體動作進行遊戲操控的系統",
       "highlights": [
-        "🚀 肢體動作進行遊戲操控",
-        "🛸 Having fun",
-        "🎮 Mediapipe + OpenCV + Python"
+        "Mediapipe 識別身體關鍵點（肩膀、嘴巴）並判斷手勢",
+        "檢測到的手勢通過 pyautogui libary 觸發對應的鍵盤輸入",
+        "透過 Websocket 技術讓遊戲可異地多人對戰"
       ],
       "stack": {
         "Python": "simple-icons:python",
@@ -571,11 +571,7 @@
       "name": "Calculator",
       "isActive": true,
       "description": "Creating an MVC application using NODEjs and MariaDB",
-      "highlights": [
-        "肢體動作進行遊戲操控",
-        "Having fun",
-        "Mediapipe + OpenCV + Python"
-      ],
+      "highlights": [],
       "stack": {
         "Flutter": "simple-icons:flutter"
       },
