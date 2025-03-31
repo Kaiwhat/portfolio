@@ -221,7 +221,6 @@
       ],
       "responsibilities": [
           "協助籌辦與水資源永續相關的工作坊、實地考察及社區參與活動。",
-          "帶領學生參與水資源保育、永續能源實踐及對環境的保護付諸行動。",
           "設計關於水資源保育與埔里排洪道週邊之經濟發展平衡的討論。"
       ],
       "achievements": [
@@ -512,26 +511,19 @@
   ],
   "projects": [
     {
-      "name": "BobyGamer",
+      "name": "FPGA_snake_game_contest",
       "isActive": true,
-      "description": "結合 Mediapipe 與 OpenCV，基於 Python 開發一個利用肢體動作進行遊戲操控的系統。",
+      "description": "透過 Verilog 將一款經典的遊戲呈現在 FPGA 上使用 Cyclone III EP3C10E144C8 晶片",
       "highlights": [
-        "🚀 肢體動作進行遊戲操控",
-        "🛸 Having fun",
-        "🎮 Mediapipe + OpenCV + Python"
+        "在8x8的LED全彩點矩陣上，隨機生成蛇的食物",
+        "暫停功能、超過8分就將蛇的身體變色",
+        "用七段顯示器 16-bits LED 顯示玩家遊玩時間"
       ],
       "stack": {
-        "Python": "simple-icons:python",
-        "OpenCV": "simple-icons:opencv",
-        "MySQL": "simple-icons:mysql",
-        "Flask": "simple-icons:flask",
-        "Socket.io": "simple-icons:socketdotio",
-        "Docker": "simple-icons:docker",
-        "Node.js": "simple-icons:nodedotjs",
-        "Vim": "simple-icons:vim"
+        "Verilog": "simple-icons:velog"
       },
       "github": "https://github.com/Kaiwhat/BobyGamer",
-      "url": ""
+      "url": "https://github.com/wzray07/FPGA_snake_game_contest"
     },
     {
       "name": "Exploit_market ",
@@ -551,6 +543,28 @@
         "MariaDB": "simple-icons:mariadb"
       },
       "github": "https://github.com/Kaiwhat/Exploit_market",
+      "url": ""
+    },
+    {
+      "name": "BobyGamer",
+      "isActive": true,
+      "description": "結合 Mediapipe 與 OpenCV，基於 Python 開發一個利用肢體動作進行遊戲操控的系統。",
+      "highlights": [
+        "🚀 肢體動作進行遊戲操控",
+        "🛸 Having fun",
+        "🎮 Mediapipe + OpenCV + Python"
+      ],
+      "stack": {
+        "Python": "simple-icons:python",
+        "OpenCV": "simple-icons:opencv",
+        "MySQL": "simple-icons:mysql",
+        "Flask": "simple-icons:flask",
+        "Socket.io": "simple-icons:socketdotio",
+        "Docker": "simple-icons:docker",
+        "Node.js": "simple-icons:nodedotjs",
+        "Vim": "simple-icons:vim"
+      },
+      "github": "https://github.com/Kaiwhat/BobyGamer",
       "url": ""
     },
     {
