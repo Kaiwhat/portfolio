@@ -98,9 +98,21 @@
       "date": "2025-03-08",
       "url": "https://sitcon.org/2025/",
       "issuer": "Students’ Information Technology Conference, 臺灣"
+    },
+    {
+      "name": "AIS3 My First CTF 2025",
+      "date": "2025-05-24",
+      "url": "https://ais3.org/mfctf/",
+      "issuer": "教育部資訊安全人才培育計畫, 教育部, 臺灣"
     }
   ],
   "contributor": [
+    {
+      "name": "第九屆新住民及子女築夢計畫",
+      "date": "2023-04-01",
+      "url": "",
+      "issuer": "國立暨南國際大學，內政部移民署, 臺灣"
+    },
     {
       "name": "Association for Computing Machinery",
       "date": "2023-07-13",
@@ -112,6 +124,12 @@
       "date": "2023-09-01",
       "url": "",
       "issuer": "Google Developer Student Club, 國立暨南國際大學, 臺灣"
+    },
+    {
+      "name": "第十屆新住民及子女築夢計畫",
+      "date": "2023-11-01",
+      "url": "",
+      "issuer": "國立暨南國際大學，內政部移民署, 臺灣"
     },
     {
       "name": "Google Developer Group on campus NCNU",
