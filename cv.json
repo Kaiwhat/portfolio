@@ -202,12 +202,12 @@
         "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
       ],
       "responsibilities": [
-        "設計並管理前端專案，同時讓解方具備可擴展性、高效、可維護、高可用架構及易用的使用者體驗。",
-        "與開發者、設計師與專案經理等跨領域團隊緊密合作，交付頂尖品質的解決方案。"
+        "設計並管理前端專案，同時讓網站具備可擴展性、可維護、高可用架構及易用的使用者體驗。",
+        "與開發者、設計師與專案經理等跨領域團隊緊密合作，交付優良品質的結果。"
       ],
       "achievements": [
         "共同創辦公司，撰寫並維護公司網站至今。",
-        "共同參與 Ustart 專案，並獲得新台幣 500,000 元的補助。"
+        "共同參與 U-start 專案，並獲得教育部青年發展署新台幣 500,000 元的補助。"
       ],
       "skills": {
         "HTML5": "simple-icons:html5",
@@ -238,7 +238,7 @@
           "協調學生、教師、地方社區與政府機關之間的跨領域與跨部門合作。"
       ],
       "responsibilities": [
-          "協助策劃與執行與水資源永續及環境保育相關的系列活動，包括工作坊、田野調查與社區共創論壇。",
+          "協助策劃與執行與水資源永續及環境保育相關的系列活動，包括食農教育、實地踏查與社區合作活動。",
           "設計與推動結合在地議題的討論與實作任務，如埔里排洪道周邊經濟發展與水資源管理的平衡。",
           "支援學生進行專題研究與行動提案，並提供研究方法與資料分析的指導。",
           "擔任溝通橋樑，協調學術團隊與地方社區、政府部門及企業之間的合作與溝通。"
@@ -256,7 +256,7 @@
       "location": "TW",
       "url": "https://hackmd.io/@ncnu-opensource",
       "startDate": "2024-09-01",
-      "endDate": null,
+      "endDate": "2025-06-30",
       "summary": "從實務面出發認識和瞭解 Linux 系統、伺服器管理與資訊安全等相關知識技能與應用，並以個人實做方式培養實務經驗、分組專題實做方式培養實務應用與能力、分組專題研究方式進行原理與機制探討，與業界需求、證照知識技能及與國際社群無痛接軌。",
       "highlights": [
           "在 Linux 系統管理實務課程中的選定主題進行授課，涵蓋實務和系統管理理念",
@@ -264,7 +264,7 @@
       ],
       "responsibilities": [
           "協助學生操作 Linux 環境中的基本與進階指令，指導使用 shell script 進行系統自動化管理。",
-          "設計與帶領伺服器部署實作，包括使用 systemd、cron、rsync、SSH、Apache/Nginx 等核心服務。",
+          "設計與帶領伺服器部署實作，包括使用 systemd, cron, rsync, SSH, Apache/Nginx 等核心服務。",
           "協助學生安裝與設定 Linux 發行版本（如 Ubuntu），並進行系統硬體資源管理與故障排除。",
           "支援課堂實作與小組專題的技術指導，幫助學生從設計、部署到維運系統的全流程學習。",
           "推動 Git 與 GitHub 的版本控制工具教學，強化學生在協作與開源開發流程中的實務能力。"
@@ -301,7 +301,7 @@
       "location": "TW",
       "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
       "startDate": "2025-02-01",
-      "endDate": null,
+      "endDate": "2025-06-30",
       "summary": "協助教授授課《企業資訊通訊與網路》課程，專注於網路架構設計、資訊安全原則及系統實作支援。負責協助學生理解 TCP/IP 協定、網路安全機制、防火牆與入侵偵測技術，並透過實作與輔導強化其問題解決能力與實務應用能力。",
       "highlights": [
           "指導學生建構企業級網路架構，實作防火牆 (Iptables)、封包過濾 (netfilter) 與基礎入侵防禦配置。",
@@ -326,7 +326,7 @@
       "location": "TW",
       "url": "https://www.linkedin.com/school/%E5%9C%8B%E7%AB%8B%E6%9A%A8%E5%8D%97%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%AD%B8/",
       "startDate": "2025-02-01",
-      "endDate": null,
+      "endDate": "2025-06-30",
       "summary": "在一門聚焦於資訊管理領域新興議題的研討課程中，促進學術討論與研究報告呈現。為學生提供研究方法論、批判性思維與有效的報告技巧指導。",
       "highlights": [
           "學註學生發想研究主題並結構化報告內容。",
@@ -659,7 +659,7 @@
     {
       "name": "Calculator",
       "isActive": true,
-      "description": "Creating an MVC application using NODEjs and MariaDB",
+      "description": "",
       "highlights": [],
       "stack": {
         "Flutter": "simple-icons:flutter"
